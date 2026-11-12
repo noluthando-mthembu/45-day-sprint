@@ -1,8 +1,8 @@
 ticket_identifier,customer_name,issue_description,priority_level
-TCK-101,Alice Smith,Login authentication failure,High
-TCK-102,Bob Jones,Payment gateway timeout,Medium
-TCK-101,Alice Smith,Duplicate ticket entry,High
+TCK-101,Noluthando Mthembu,Login authentication failure,High
+TCK-102,Bokang Ngodi,Payment gateway timeout,Medium
+TCK-101,Noluthando Mthembu,Duplicate ticket entry,High
 TCK-103,,Missing customer name,Low
-TCK-104,Charlie Brown,,Medium
-TCK-105,Diana Prince,Password reset link expired,Low
+TCK-104,Luvhengo Tshikovhi,,Medium
+TCK-105,Junior Hlophe,Password reset link expired,Low
 5165,abc,idk,1
