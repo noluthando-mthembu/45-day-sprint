@@ -1,6 +1,6 @@
-# 💖 45-Day Sprint Python Applications Portfolio
+# 💖 45-Day Sprint Tech Applications Portfolio
 
-Welcome to my **45-Day Sprint Python Portfolio**! This repository showcases a suite of interactive, dual-interface desktop applications built for Windows 11. Each application provides both a **Terminal Command-Line Interface (CLI)** and a **Graphical User Interface (GUI)** app built using Python's native `tkinter` library.
+Welcome to my **45-Day Sprint Tech Portfolio**! This repository showcases a suite of interactive, dual-interface desktop applications built for Windows 11. Each application provides both a **Terminal Command-Line Interface (CLI)** and a **Graphical User Interface (GUI)** app built using Python's native `tkinter` library.
 
 ---
 
