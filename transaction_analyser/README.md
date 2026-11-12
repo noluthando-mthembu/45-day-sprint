@@ -1,4 +1,4 @@
-# 🎀 Interactive Transaction Analyzer App
+# 🎀 Interactive Transaction Analyser App
 
 A transaction summary application built for Windows 11 that processes customer spending records to compute Total, Average, Maximum, and Minimum values formatted in Rand (R).
 
